@@ -1,6 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-ThThis is an exercise in understaning Django 
+This is an exercise in understaning Django 
 
 Here's what in it:
 * A fully functioning blog: you will be able to create, update, and delete blog posts. Posts will have categories that can be used to sort them. Finally, users will be able to leave comments on posts.
