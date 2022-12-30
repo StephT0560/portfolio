@@ -8,4 +8,3 @@ Here's what in it:
 
 Of course, this not completed and will be updated every now and then :)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
